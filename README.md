@@ -1,4 +1,5 @@
-# Interview Prep System — Corrected & MySQL-converted
+# PrepIQ: AI-Powered Resume Analysis 
+(Renamed from Interview Prep System)
 
 ## What changed from the original code
 
